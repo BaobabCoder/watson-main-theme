@@ -1,0 +1,7 @@
+{
+  "name": "watson-solarized-dark-theme",
+  "version": "1.0.1",
+  "author": "campardouberanger",
+  "description": "A solarized inspired, dark theme for Watson",
+  "stylesheet": "dist/main.css"
+}

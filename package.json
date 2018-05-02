@@ -1,0 +1,25 @@
+{
+  "name": "watson-solarized-dark-theme",
+  "version": "1.0.1",
+  "description": "A solarized inspired, dark theme for Watson.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "campardouberanger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baobabcoder/watson-solarized-dark-theme.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inline-image": "^1.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/baobabcoder/watson-solarized-dark-theme/issues"
+  },
+  "homepage": "https://github.com/baobabcoder/watson-solarized-dark-theme#readme"
+}
